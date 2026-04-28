@@ -1,4 +1,5 @@
-# codsoftThis repository contains three beginner-friendly Python projects that demonstrate core programming concepts such as user input, conditionals, loops, and randomization.
+# codsoft
+This repository contains three beginner-friendly Python projects that demonstrate core programming concepts such as user input, conditionals, loops, and randomization.
 
  Rock Paper Scissors Game
 
